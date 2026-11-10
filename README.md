@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Kaviska! 👋
 
-<!--
-**novertkaviska0806-star/novertkaviska0806-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Frontend Developer
 
-Here are some ideas to get you started:
+🎓 BSc in Information Technology
+(External BIT) - University of Moratuwa
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning React.js and Full-Stack Development.
+
+💻 Interested in building modern web applications.
+
+### Technical Skills
+
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- REST API
+
+### My Goal
+
+To become a professional Software Developer
+and build useful web applications.
+
+### Connect with me
+
+GitHub: https://github.com/novertkaviska0806-star
